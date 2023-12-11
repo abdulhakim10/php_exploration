@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Shahalam",
+        "age" : 25,
+        "email": "shahalam@sharif.com",
+        "location": "Dhaka"
+    },
+    {
+        "name": "Rayhan",
+        "age" : 23,
+        "email": "rayhan@vai.com",
+        "location": "Dhaka"
+    },
+    {
+        "name": "Rifayet",
+        "age" : 19,
+        "email": "rifayet@rimon.com",
+        "location": "Hajiganj"
+    },
+    {
+        "name": "Nesar",
+        "age" : 24,
+        "email": "nesar@vai.com",
+        "location": "Dhaka"
+    },
+    {
+        "name": "Tusar",
+        "age" : 25,
+        "email": "tusar@vai.com",
+        "location": "Dhaka"
+    }
+]
